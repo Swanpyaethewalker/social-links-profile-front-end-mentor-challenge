@@ -29,8 +29,8 @@ This is a solution to [Social links profile challenge on Frontend Mentor](). Fro
 
 ## Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Vercel]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-O7THb7gEZ6)
+- Live Site URL: [Vercel](https://social-links-profile-front-end-mentor-challenge.vercel.app/)
 
 ## Author
 

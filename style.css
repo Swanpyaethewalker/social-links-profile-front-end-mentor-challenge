@@ -78,10 +78,7 @@ body {
 .attribution a {
   font-size: 0.8em;
 }
-.attribution a:hover {
-  font-size: 1em;
-  transition: font-size 0.2s ease;
-}
+
 @media (min-width: 320px) and (max-width: 480px) {
   .container {
     height: 80vh;
